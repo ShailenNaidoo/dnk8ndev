@@ -27,6 +27,7 @@ tags:
 | [Thinkst](https://thinkst.com)                                                              | [GitHub](https://github.com/thinkst)                                                       |                                                                  |
 | [UCT - HIV Diversity Group](http://www.virology.uct.ac.za/vir/research/hiv-diversity-group) | [GitHub](https://github.com/HIVDiversity), [Bitbucket](https://bitbucket.org/hivdiversity) |                                                                  |
 | [Vulekamali](https://vulekamali.gov.za/faq)                                                 | [GitHub](https://github.com/vulekamali)                                                    |                                                                  |
+| [Lumkani](https://lumkani.com) | [GitHub](https://github.com/Lumkani)
 
 ## Want to contribute?
 
